@@ -1,0 +1,13 @@
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\bin\Debug\netcoreapp3.1\Kieudulieu.exe
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\bin\Debug\netcoreapp3.1\Kieudulieu.deps.json
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\bin\Debug\netcoreapp3.1\Kieudulieu.runtimeconfig.json
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\bin\Debug\netcoreapp3.1\Kieudulieu.runtimeconfig.dev.json
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\bin\Debug\netcoreapp3.1\Kieudulieu.dll
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\bin\Debug\netcoreapp3.1\Kieudulieu.pdb
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\obj\Debug\netcoreapp3.1\Kieudulieu.csprojAssemblyReference.cache
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\obj\Debug\netcoreapp3.1\Kieudulieu.AssemblyInfoInputs.cache
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\obj\Debug\netcoreapp3.1\Kieudulieu.AssemblyInfo.cs
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\obj\Debug\netcoreapp3.1\Kieudulieu.csproj.CoreCompileInputs.cache
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\obj\Debug\netcoreapp3.1\Kieudulieu.dll
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\obj\Debug\netcoreapp3.1\Kieudulieu.pdb
+D:\C#\Bai_Tap_Tu_Hoc\Kieudulieu\Kieudulieu\obj\Debug\netcoreapp3.1\Kieudulieu.genruntimeconfig.cache
